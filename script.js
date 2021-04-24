@@ -6,6 +6,10 @@ function myTimer() {
     $(".date").text(date);
   }
 
+<<<<<<< HEAD
   $( function() {
     $( "#datepicker" ).datepicker();
   } );
+=======
+//displaying results to table
+>>>>>>> f67066a52ee710ad2706da474f95db15d233d705

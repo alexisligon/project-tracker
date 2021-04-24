@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    background-color:cadetblue;
+    padding: 12px;
+    color:white;
+}
+td, th {
+    font-size: 12px;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: aquamarine;
+    
+    
+  }
+table{
+    float: right;     
+}
+.show-result{
+    background-color: antiquewhite;
+}
