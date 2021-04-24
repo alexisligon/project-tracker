@@ -5,3 +5,5 @@ function myTimer() {
     var date = moment().format("[Today:] MMM Do, YYYY  h:mm:ss a");
     $(".date").text(date);
   }
+
+//displaying results to table
