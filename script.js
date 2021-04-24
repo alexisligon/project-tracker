@@ -6,9 +6,13 @@ function myTimer() {
     $(".date").text(date);
   }
 
+<<<<<<< HEAD
 // var projectButton = $("#project-button")
 // projectButton.on("click", function () {
 // })
 $('#myModal').on('shown.bs.modal', function () {
     $('#exampleModal').trigger('focus')
   })
+=======
+//displaying results to table
+>>>>>>> f67066a52ee710ad2706da474f95db15d233d705
